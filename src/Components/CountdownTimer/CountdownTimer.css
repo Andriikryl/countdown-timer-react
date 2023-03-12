@@ -1,0 +1,22 @@
+.coundown-box{
+    width: 600px;
+    height: 100px;
+    border: 2px solid tomato;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.coundown-box span {
+    margin-inline: 5px;
+}
+
+
+
+
+
+
+
+
+
